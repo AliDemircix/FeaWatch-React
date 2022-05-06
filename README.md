@@ -2,12 +2,6 @@
 
 FeaWatch contains movie posters and movie information.User can search any video with title and can filter search with video type or year. User can favorite movies and can react them anytime visiting to website.
 
-![Project gif](./public/img/project.gif)
-
-### Project Demo
-
-<https://alidemircix.github.io/Feawatch/>
-
 ### Technologies
 
 - REACT
